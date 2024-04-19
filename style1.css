@@ -154,4 +154,10 @@ transform: scale(1.2);
     .d{
         margin-left: 25%;
     }
+    
+@media screen and (min-width: 426px) {
+    .d{
+        margin-left: 25%;
+        
+    }
 }
